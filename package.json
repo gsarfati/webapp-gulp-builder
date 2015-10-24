@@ -18,7 +18,7 @@
     "url": "https://github.com/jdrouet/webapp-gulp-builder/issues"
   },
   "homepage": "https://github.com/jdrouet/webapp-gulp-builder",
-  "dependencies": {
+  "devDependencies": {
     "coffee-script": "~1.10.0",
     "coffeelint-stylish": "~0.1.2",
     "del": "~2.0.2",
